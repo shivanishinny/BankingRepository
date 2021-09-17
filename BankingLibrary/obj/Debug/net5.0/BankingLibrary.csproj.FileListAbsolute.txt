@@ -1,0 +1,12 @@
+C:\Users\Rahuul Rathod\source\repos\BankingLibrary\BankingLibrary\bin\Debug\net5.0\BankingLibrary.deps.json
+C:\Users\Rahuul Rathod\source\repos\BankingLibrary\BankingLibrary\bin\Debug\net5.0\BankingLibrary.dll
+C:\Users\Rahuul Rathod\source\repos\BankingLibrary\BankingLibrary\bin\Debug\net5.0\ref\BankingLibrary.dll
+C:\Users\Rahuul Rathod\source\repos\BankingLibrary\BankingLibrary\bin\Debug\net5.0\BankingLibrary.pdb
+C:\Users\Rahuul Rathod\source\repos\BankingLibrary\BankingLibrary\obj\Debug\net5.0\BankingLibrary.csproj.AssemblyReference.cache
+C:\Users\Rahuul Rathod\source\repos\BankingLibrary\BankingLibrary\obj\Debug\net5.0\BankingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahuul Rathod\source\repos\BankingLibrary\BankingLibrary\obj\Debug\net5.0\BankingLibrary.AssemblyInfoInputs.cache
+C:\Users\Rahuul Rathod\source\repos\BankingLibrary\BankingLibrary\obj\Debug\net5.0\BankingLibrary.AssemblyInfo.cs
+C:\Users\Rahuul Rathod\source\repos\BankingLibrary\BankingLibrary\obj\Debug\net5.0\BankingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Rahuul Rathod\source\repos\BankingLibrary\BankingLibrary\obj\Debug\net5.0\BankingLibrary.dll
+C:\Users\Rahuul Rathod\source\repos\BankingLibrary\BankingLibrary\obj\Debug\net5.0\ref\BankingLibrary.dll
+C:\Users\Rahuul Rathod\source\repos\BankingLibrary\BankingLibrary\obj\Debug\net5.0\BankingLibrary.pdb
